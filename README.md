@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Antima Solanki</h1>
-<h3 align="center">A passionate Software Engineer from India </h3>
+<h1 align="center">Hello 👋, I'm Antima Solanki</h1>
+<h3 align="center">A Passionate Software Engineer </h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
